@@ -71,3 +71,8 @@ export default defineConfig([
   },
 ])
 ```
+
+
+## Importation des biblioteques
+- npm install three @types/three @react-three/fiber @react-three/drei @react-spring/three zustand
+- npm install -D tailwindcss postcss autoprefixer
